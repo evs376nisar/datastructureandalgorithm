@@ -48,12 +48,6 @@ int  main ()
 		
 	}
 	bubbleSorting(arr,SizeOfArr);
-		cout<<"After sorting "<<endl;
-	for(int i=0 ; i<SizeOfArr;i++)
-	{
-	    
-		cout<<arr[i]<< " ";
-		
-	}
+	
 	return 0;
 }
