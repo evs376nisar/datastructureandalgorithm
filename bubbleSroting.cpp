@@ -20,11 +20,7 @@ int bubbleSorting(int arr[],int SizeOfArr)
 		 
 		 }
 		 cout<<"step "<<i<<endl;
-	     for(int i=0;i<SizeOfArr;i++)
-	     {
-	     	cout<<arr[i]<<" ";
-		 }
-		 cout<<endl;
+
 	}
 }
 int  main ()
